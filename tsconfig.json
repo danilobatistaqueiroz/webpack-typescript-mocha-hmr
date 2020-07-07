@@ -3,14 +3,14 @@
         "outDir": "./dist/",
         "noImplicitAny": true,
         "sourceMap": false,
-        "module": "es6",
         "target": "es5",
+        "module": "commonjs",
         "jsx": "react",
         "rootDir": ".",
         "allowJs": true
     },
     "files": [
-        "src/index.ts",
+        "src/nearest-stores.ts",
         "node_modules/typescript/lib/lib.es6.d.ts"
     ]
 }
