@@ -17,7 +17,7 @@
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.3.0",
     "http-server": "^0.12.3",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "source-map-support": "^0.5.19",
     "style-loader": "^1.2.1",
     "ts-loader": "^7.0.5",
